@@ -1,0 +1,11 @@
+D:\Koj\Programování\C#\Du - Data\Du - Data\bin\Debug\Du - Data.exe.config
+D:\Koj\Programování\C#\Du - Data\Du - Data\bin\Debug\Du - Data.exe
+D:\Koj\Programování\C#\Du - Data\Du - Data\bin\Debug\Du - Data.pdb
+D:\Koj\Programování\C#\Du - Data\Du - Data\obj\Debug\Du - Data.csproj.AssemblyReference.cache
+D:\Koj\Programování\C#\Du - Data\Du - Data\obj\Debug\Du - Data.csproj.SuggestedBindingRedirects.cache
+D:\Koj\Programování\C#\Du - Data\Du - Data\obj\Debug\Du___Data.Form1.resources
+D:\Koj\Programování\C#\Du - Data\Du - Data\obj\Debug\Du___Data.Properties.Resources.resources
+D:\Koj\Programování\C#\Du - Data\Du - Data\obj\Debug\Du - Data.csproj.GenerateResource.cache
+D:\Koj\Programování\C#\Du - Data\Du - Data\obj\Debug\Du - Data.csproj.CoreCompileInputs.cache
+D:\Koj\Programování\C#\Du - Data\Du - Data\obj\Debug\Du - Data.exe
+D:\Koj\Programování\C#\Du - Data\Du - Data\obj\Debug\Du - Data.pdb
